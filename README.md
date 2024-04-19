@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi there! I'm José Manuel, a passionate full-stack developer who loves diving into the latest technologies and frameworks. With a strong foundation in Spring Boot, Node.js, and React, I enjoy crafting innovative solutions that push the boundaries of what's possible.
 <!--
 **joseramosvalderrama/joseramosvalderrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
